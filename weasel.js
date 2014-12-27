@@ -13,7 +13,7 @@ var weasels = [
   'largely',
   'many',
   'mostly',
-  'obviously'
+  'obviously',
   'quite',
   'relatively',
   'remarkably',
